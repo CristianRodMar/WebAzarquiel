@@ -14,8 +14,8 @@
     if (y > 600) render1 = true;
     if (y > 800) render2 = true;
     if (y > 1100) render3 = true;
-    if (y > 1700) render4 = true;
-    if (y > 1900) render5 = true;
+    if (y > 1600) render4 = true;
+    if (y > 1800) render5 = true;
   };
 </script>
 
