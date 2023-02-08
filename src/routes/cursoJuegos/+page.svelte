@@ -217,7 +217,7 @@
 
 <style lang="sass">
   main
-    min-height: 300vh
+    min-height: 240vh
   h1
     font-weight: bold
     margin: 0
