@@ -14,7 +14,7 @@
               <li><a href="/">Programa Papas</a></li>
               <li><a href="/">Intranet</a></li>
               <li><a href="/">Delphos</a></li>
-              <img src="http://www.ies-azarquiel.es/images/logosazarquiel/fseu.png" alt="eu" />
+              <img src="static/fseu.png" alt="eu" />
             </ul>
           </div>
           <div class="col-lg-4 col-sm-12">
