@@ -14,7 +14,7 @@
               <li><a href="/">Programa Papas</a></li>
               <li><a href="/">Intranet</a></li>
               <li><a href="/">Delphos</a></li>
-              <img src="static/fseu.png" alt="eu" />
+              <img src="img/fseu.png" alt="eu" />
             </ul>
           </div>
           <div class="col-lg-4 col-sm-12">
