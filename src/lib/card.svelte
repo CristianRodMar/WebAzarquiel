@@ -26,6 +26,14 @@
   main
     height: 20rem
     width: 15rem
+    animation: cardReveal 1s 
+  @keyframes cardReveal
+    0%
+      opacity: 0
+      filter: blur(4px)
+    100%
+      filter: blur(0)
+      opacity: 1
   .hoverContainer
     color: white
     font-weight: bold

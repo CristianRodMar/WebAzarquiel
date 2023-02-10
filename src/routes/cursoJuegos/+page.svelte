@@ -25,9 +25,7 @@
 
 <svelte:window bind:scrollY={y} on:scroll={reveal(y)} />
 
-<main
-  class="container-fluid d-flex flex-column align-items-center justify-content-start"
->
+<main class="container-fluid d-flex flex-column align-items-center justify-content-start">
   <div class="row">
     <div class="col title">
       <h1>Desarrollo de Videojuegos y Realidad Virtual</h1>
@@ -214,7 +212,6 @@
     </Revealbox>
   {/if}
 </main>
-
 <style lang="sass">
   main
     min-height: 240vh
